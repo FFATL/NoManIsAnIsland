@@ -102,7 +102,7 @@ struct FDialogueLine
 	bool bHideOptions;
 
 	bool IsEndLine() {
-		if (Effect.Contains(EDialogueLineEffect::Forward)) {
+		if (Effect.Contains(EDialogueLineEffect::Forward) || bNeedOptions) {
 			return false;
 		}
 		else {
