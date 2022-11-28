@@ -1,0 +1,120 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Damn it."
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "What is the meaning of 'out of service'?"
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "It's ... a disaster. This bridge is the only way to the mountain."
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "Do you need help?"
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"Line": "The unexpected appearance surprises Island, but Bookworm and Card seem calm."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Can you fix the bridge?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "I can, but I'm afraid I won't."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Why?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "You are not ready. Not ready to make decisions."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "So you are telling me to stay out and wait for who-know-how-long-it-is?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Please try reasoning. I'm sure she wishes you all good."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Is it feasible that I start preparing for whatever you say after getting across the bridge? I ... want to finish this whole business as soon as possible."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "You need to challenge me. Win my game before I fix your bridge."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Okay."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "In this game, your friends need to participate too."
+			}
+		}
+	]
+}

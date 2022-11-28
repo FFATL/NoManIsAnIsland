@@ -1,0 +1,34 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I can't leave Card alone!"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Rabbit",
+				"Line": "You are too big for the hole."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I don't care!"
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "Island breaks himself into smaller pieces to get into the hole. There is no turning back now. When Island becomes smaller than a dust, will he be recognised by Card?"
+			},
+			"Effect": [
+				"BroadcastOne"
+			]
+		}
+	]
+}

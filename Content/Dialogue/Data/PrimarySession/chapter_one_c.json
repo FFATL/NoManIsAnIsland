@@ -1,0 +1,95 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "What are you doing here, Card?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "None of your business."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "What is your problem?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Calm down, both of you. Card. We are leaving."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "You cannot leave me behind like this."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Have you guys finished talking?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "How dare you speak. No matter Bookworm is here or not, I'm not letting you get away easily. If you want to leave, you have to challenge me, and defeat me."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Try me."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "This is not a threat. You need keys to leave this Middle of Nowhere. You can ask Bookworm if you have doubts."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "You know but you don't tell me?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "You need two keys. One is with me, and the other is in Card's hands. I just thought things could go better."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Fine. I challenge you, Card."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Challenge accepted."
+			}
+		}
+	]
+}

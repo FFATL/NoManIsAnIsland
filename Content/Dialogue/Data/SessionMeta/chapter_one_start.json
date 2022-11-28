@@ -1,0 +1,34 @@
+{
+	"CheckMap":
+	{
+	},
+	"DisplayNameDataMap":
+	{
+		"Island":
+		{
+			"Color":
+			{
+				"R": 0.591667,
+				"G": 0.460496,
+				"B": 0.10694,
+				"A": 1
+			},
+			"Texture": "Texture2D'/Game/Character/Island.Island'"
+		},
+		"Queen":
+		{
+			"Color":
+			{
+				"R": 0.414133,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"Texture": "Texture2D'/Game/Character/Queen.Queen'"
+		}
+	},
+	"LineArray": [
+		"chapter_one_a"
+	],
+	"InitialVersion": 0
+}

@@ -1,0 +1,91 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Stars",
+				"Line": "Good luck."
+			},
+			"Effect": [
+				"HideSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "We can think about our next destination after a short break, right?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Yeah. Sure, of course."
+			},
+			"Effect": [
+				"HideSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card"
+			},
+			"Effect": [
+				"HideSprite",
+				"Forward"
+			]
+		},
+		{
+			"Core":
+			{
+				"Line": "Card slips and starts rolling downhill. He becomes smaller and smaller. Finally, he rolls into a hole under a tree."
+			},
+			"Effect": [
+				"BroadcastTwo"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Card! Are you safe?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "???",
+				"Line": "Please stay back, young Master! You cannot go inside te the Rabbit Hole!"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Who are you?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "???",
+				"Line": "It is just an old butler rabbit speaking. My fellow rabbits will rescue Master Card. Please leave this matter upon us and remember that Master Card does not want you get hurt as well."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I..."
+			},
+			"bNeedOptions": true,
+			"OptionMap":
+			{
+				"I should stay with Card.": "ending_b",
+				"I should let the experienced handle Card's situation.": "ending_c"
+			}
+		}
+	]
+}

@@ -1,0 +1,164 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Hey, what are you doing there?"
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "???",
+				"Line": "None of your business."
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "????",
+				"Line": "You don't want this! You can do better than this, right?"
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "???",
+				"Line": "Don't you dare."
+			},
+			"Effect": [
+				"HideSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"Line": "The violent persion leaves without a word."
+			},
+			"Effect": [
+				"BroadcastOne"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Are you okay?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "????",
+				"Line": "I'm fine. It does not hurt as much as it appears."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Are you defending him?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "????",
+				"Line": "He has a tough history."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Okay, wow! You do your thing. I'm in a hurry."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "????",
+				"Line": "Where are you going?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Mount Uphill. I have something to ... (Sigh) Forget it."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "????",
+				"Line": "I know that place. I can take you there."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Really? But what do you get from this?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "????",
+				"Line": "Quality time I guess? By the way, I'm Bookworm."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "... Island. I think it's my name."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "Island agrees that they will go together, and tells Bookworm his story in Nowhere."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "That is... pretty messed up, huh?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I'm not anxious. I just feel sad, about my amnesia."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "It's alright. Having feelings is a great step to having memories back, isn't it?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I sure hope so."
+			}
+		}
+	]
+}

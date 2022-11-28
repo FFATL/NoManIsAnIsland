@@ -1,0 +1,145 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Have you found the key?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "There. Above you."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "A nest with two newborn birds. No sign of parents. A key is sitting next to the nest."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "What's on your mind?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "I'm thinking how to get the key without disturbing the cubs."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "It is very courteous of you."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Cut it out."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Is it normal that the mother is not with them?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Maybe she's just gone for hunting, or never turning back. Missing mom is not the end of the world."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "How do think about family?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Some people feed you with or without caring about you. You eat; you grow; you fly away."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I think it's more than that."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Look how the amnesia says. No offense. Anyway you sound like Bookworm, and I don't like it."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I can't help it. Now you mention it, what is between you and Bookworm? Are you two friends?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Family. He said we are brothers. Connected by our hearts."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Then why you hit him?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "I... It is my fault. But Bookworm said and believed I can do better. So I am here, to prove Bookworm is correct. I'll never make that terrible mistake again."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "Card pokes the key with the long stick. They get the key without disturbing the birds."
+			},
+			"Effect": [
+				"BroadcastOne"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "He will certainly melt if he hears that."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Yeah. Now we've got this key. I'll wait for you guys at the gate."
+			}
+		}
+	]
+}

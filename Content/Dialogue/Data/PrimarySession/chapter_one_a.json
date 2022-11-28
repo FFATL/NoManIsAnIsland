@@ -1,0 +1,186 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"Line": "I feel so stiff... And heavy... Where am I?"
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "Should I be here?"
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "This place is so hollow and peaceful. My mind and voice seem to melt together."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "This is Nowhere. You are at the Middle of Nowhere."
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"Line": "Are you talking to me?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "I don't see anyone else besides us. So yes, I'm talking to you, Island."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "(So my name is Island. And... I can speak.)"
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I don't know. It feels strange. Every part of me feels strange."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "If you feel strange, maybe it's a sign that you shouldn't be here."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "You are not answering the question."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "Who knows? For me, I feel normal to be here. Just normal."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Fine. So why are you here? Are you helping me or just a random passerby?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "Calm down. I'm here to deliver a message: You need to go to Mount Uphill. There are all the answers."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "... I apologise."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "It's alright."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Can I trust you?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "Do you have a choice?"
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "Island keeps his mouth shut and Queen can feel he is all tensed up."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "You do. You always do. Please don't forget."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "(Sigh.) I guess I'd better get going. May I have your name before I leave?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "Queen. Queen is my name."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Queen of Nowhere?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "Just Queen. That title is ... a bit ridiculous, isn't it?"
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "Warmth and nostalgia ripples in Island's body."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "Two more things. Don't take anything for granted. And stay safe."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I will keep that in mind."
+			}
+		}
+	]
+}

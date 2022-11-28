@@ -1,0 +1,134 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "As promised, I will fix the bridge."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Queen... Thank you. "
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "I know you will make the wise decision. Take care. Goodbye."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "As they walks towards the entrance of the bridge, "
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Sorry, Island. I know I've promised you but I think you need to go without me."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Why? Is it about the game?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "No. It's about myself. I have a place to now. Immediately."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Perhaps three of us can go together, and I can handle my business later?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "It won't work. You don't happen to have wings on you, do you? Besides, you know you don't want to drag your feet."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Card, you've been awfully silent. Say something, will ya?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "You know I'm not good at dealing with family matters."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Bookworm, I'm happy that you've made up your mind. You have all my wishes."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "That's it?"
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "Card does not seem to be bothered, but Bookworm smiles bitterly. When Island sees Bookworm's smile, he suddenly realises that he probably knows this day will come and he needs to make decisions regardless of being ready or not."
+			}
+		},{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I guess that is it, then. Go your way and never turn back before you achieve what you want."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Thanks."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Card, please take good care of Island for me."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Bookworm, please know that you are not alone, and we will "
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Okay."
+			}
+		}
+	]
+}

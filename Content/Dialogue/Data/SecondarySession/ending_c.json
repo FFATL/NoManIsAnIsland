@@ -1,0 +1,78 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "He will not be alone, right?"
+			},
+			"Effect": [
+				"BroadcastTwo"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Rabbit",
+				"Line": "Of course not. We will make sure Master Card knows that you care about him deeply."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "It's all I ask for."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Rabbit",
+				"Line": "Farewell, young Master."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "After Island left, he has spent some time wandering alone and without directions."
+			},
+			"Effect": [
+				"BroadcastOne"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "Do you need a company?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Why not?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "Do you miss your friends?"
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "I miss them."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Queen",
+				"Line": "I miss the time you three hung out with each other too."
+			}
+		}
+	]
+}

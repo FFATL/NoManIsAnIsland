@@ -1,0 +1,36 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"Line": "The door is locked."
+			},
+			"CheckArray": [
+				{
+					"Key": "ch2_door_open",
+					"RequireValue": false,
+					"bGlobalKey": true
+				}
+			],
+			"Effect": [
+				"BroadcastOne"
+			]
+		},
+		{
+			"Core":
+			{
+				"Line": "The door is now open."
+			},
+			"CheckArray": [
+				{
+					"Key": "ch2_door_open",
+					"RequireValue": true,
+					"bGlobalKey": true
+				}
+			],
+			"Effect": [
+				"BroadcastTwo"
+			]
+		}
+	]
+}

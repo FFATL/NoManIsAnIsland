@@ -1,0 +1,161 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Have you found the key?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "The key is hanging from the branch."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "A chrysalis."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Metamorphosis. Yeah. Can I ask you a question?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Sure. Shoot."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "I know you are having amnesia, but have you thought about yourself? Like past you, future you, BETTER you..."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I hope I was a person, but I think I was not. And I probably won't even bother to be good in the future."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "You won't think this way after you get your memories back. I promise."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Have you asked Card about this before?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Of course I have, dear. He said 'you are all good. Don't care what other people say. If you try to be good, you will be good.'"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Encouraging. What about Card himself?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Low esteem. I do think you two can get along well."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I don't hate Card. Just… a little distance is safer for everyone. A little."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Safe from what?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I don't know. Isn't it the scariest part?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "There are risks, but opportunities as well, right?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Is that how you met Card?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "He was a confused peson. A bit bad-tempered, but good-natured deep down."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I'm not judging you, but how can you believe in something that vague and seemingly everchanging?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "I just accept there are consequences, good or bad, of everything. So I try to make everything better. Maybe in the meantime, I will find a better self. For the knowing nothing part, I admit it's scary. Perhaps I'm too stubborn to give up."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I hope I were as strong as you."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "You are, just a bit forgetful as well. Now, here is the key. Give me some alone time, will ya? I'll meet you guys at the gate."
+			},
+			"Effect": [
+				"BroadcastOne"
+			]
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"CheckMap":
+	{
+	},
+	"DisplayNameDataMap":
+	{
+		"Island":
+		{
+			"Color":
+			{
+				"R": 0.591667,
+				"G": 0.460496,
+				"B": 0.10694,
+				"A": 1
+			},
+			"Texture": "Texture2D'/Game/Character/Island.Island'",
+			"bSpriteInstantShown": true
+		},
+		"Card":
+		{
+			"Color":
+			{
+				"R": 0.954167,
+				"G": 0.856082,
+				"B": 0.262033,
+				"A": 1
+			},
+			"Texture": "Texture2D'/Game/Character/Card.Card'",
+			"bSpriteInstantShown": true
+		},
+		"Bookworm":
+		{
+			"Color":
+			{
+				"R": 0.217852,
+				"G": 0.9125,
+				"B": 0.355554,
+				"A": 1
+			},
+			"Texture": "Texture2D'/Game/Character/Bookworm.Bookworm'",
+			"bSpriteInstantShown": true
+		},
+		"Queen":
+		{
+			"Color":
+			{
+				"R": 0.414133,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			}
+		}
+	},
+	"LineArray": [
+		"chapter_three_b"
+	],
+	"InitialVersion": 0
+}

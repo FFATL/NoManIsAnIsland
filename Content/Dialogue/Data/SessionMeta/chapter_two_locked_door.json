@@ -1,0 +1,10 @@
+{
+	"CheckMap":
+	{
+	},
+	"LineArray": [
+		"chapter_two_door"
+	],
+	"InitialVersion": 0,
+	"bResetProgressAtEnd": true
+}

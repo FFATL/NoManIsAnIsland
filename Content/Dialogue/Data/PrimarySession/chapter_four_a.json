@@ -1,0 +1,175 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "You know the way up?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Yeah. Learned from Bookworm. He said he will someday climb the mountain as well."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Do you feel lonely now? After Bookworm's leaving?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Sometimes. But I'm getting used to this."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "I guess it's the only way."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "How do you feel, then?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "To be honest, not much. No sadness; no anger. Feelings seem to be so distant."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Maybe it's called growing up."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Huh?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Anyway, we should stop talking. Get prepared physically and mentally."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "After a long while, Island and Card reach the top of the mountain."
+			},
+			"Effect": [
+				"BroadcastOne"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "We are here, finally."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Stars",
+				"Line": "Hello there. Nice to see you all safe and sound. You can call us Stars."
+			},
+			"Effect": [
+				"ShowSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Enough greetings. Now tell me everything."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Stars",
+				"Line": "In short, we dropped you there accidentally, but we could not go down there. So we asked Queen to do us a favour. The rest is history."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "How responsible you are."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "What now, then?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Stars",
+				"Line": "Two options. One, we bring you home, but we need to break you down because you are too heavy to fly. Two, you stay here, and we will never meet again."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "It is not fair!"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Oh, my head!"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "God! Are you alright?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Don't worry. I'm good."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "It is the time to make decisions, right? Especially you remember now."
+			},
+			"bNeedOptions": true,
+			"OptionMap":
+			{
+				"Go with Stars": "ending_a",
+				"Stay with Card": "ending_branch_a"
+			}
+		}
+	]
+}

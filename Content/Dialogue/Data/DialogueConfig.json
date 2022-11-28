@@ -1,0 +1,23 @@
+{
+	"CheckMap":
+	{
+		"ch2_door_open": false
+	},
+	"MetaVersionMap":
+	{
+		"chapter_one_start": 0,
+		"chapter_one_bookworm_fight": 0,
+		"chapter_one_before_battle": 0,
+		"chapter_one_after_battle": 0,
+		"chapter_two_chrysalis_bookworm": 0,
+		"chapter_two_nest_card": 0,
+		"chapter_two_locked_door": 0,
+		"chapter_three_before_battle": 0,
+		"chapter_three_after_battle": 0,
+		"chapter_four_mount_uphill": 0,
+		"chapter_four_rabbit_hole": 0,
+		"ending_the_sky_is_the_limit": 0,
+		"ending_down_to_earth": 0,
+		"ending_no_man_is_an_island": 0
+	}
+}

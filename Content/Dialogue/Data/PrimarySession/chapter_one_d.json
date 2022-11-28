@@ -1,0 +1,59 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Take your key. Get lost."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "Are you alright?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "I'm... fine. And I want to say I am sorry."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "Island thinks he should invite Card to keep Bookworm around."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "You can come along if you want. I don't hold grudges against you."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "I know it sounds like forcing you... But we can have fun together, and you can get some distraction as well?"
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "I'll come, just because I'm not letting you guy get away that easily."
+			}
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Bookworm",
+				"Line": "That's all I need."
+			}
+		}
+	]
+}

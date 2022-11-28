@@ -1,0 +1,53 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"DisplayName": "Island",
+				"Line": "Goodbye, my friend. Take care."
+			},
+			"Effect": [
+				"BroadcastOne"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Card",
+				"Line": "Don't forget what Bookworm said. Promised?"
+			},
+			"Effect": [
+				"HideSprite"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Island"
+			},
+			"Effect": [
+				"HideSprite",
+				"Forward"
+			]
+		},
+		{
+			"Core":
+			{
+				"DisplayName": "Stars"
+			},
+			"Effect": [
+				"HideSprite",
+				"Forward"
+			]
+		},
+		{
+			"Core":
+			{
+				"Line": "As Island is flying, Card is becoming smaller and smaller. When Card becomes smaller than a dust, what will be left in Island's sight?"
+			},
+			"Effect": [
+				"BroadcastTwo"
+			]
+		}
+	]
+}

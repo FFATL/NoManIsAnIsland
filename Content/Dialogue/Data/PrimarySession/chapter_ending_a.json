@@ -1,0 +1,46 @@
+{
+	"Dialogue": [
+		{
+			"Core":
+			{
+				"Line": "Today is my graduation day."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "I don't really want to come, but my family hates to hear this. So I come."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "This certificate is heavier than I expected. Perhaps I put too many memories into this piece of paper."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "But I can't help being sentimental. That said, I've learned my lesson of being sentimental. I almost failed my calculus course third times because I could not focus my mind."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "Sometimes, you need to fight alone. Friends can be in your shoes, but cannot be you."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "I don't know what to do after graduation."
+			}
+		},
+		{
+			"Core":
+			{
+				"Line": "But at the moment, I do have something I want to do: escape this ceremony."
+			}
+		}
+	]
+}
