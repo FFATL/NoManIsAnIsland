@@ -1,7 +1,13 @@
 {
 	"CheckMap":
 	{
-		"ch2_door_open": false
+		"ch2_door_open": false,
+		"ch2_unlocked": false,
+		"ch3_unlocked": false,
+		"ch4_unlocked": false,
+		"ed_a_unlocked": false,
+		"ed_b_unlocked": false,
+		"ed_c_unlocked": false
 	},
 	"MetaVersionMap":
 	{
