@@ -15,6 +15,15 @@ class NOMANISANISLAND_API UDialogueSubsystem : public UGameInstanceSubsystem
 {
 	GENERATED_BODY()
 
+    UPROPERTY()
+    FDialogueConfig LoadConfig;
+
+    UPROPERTY()
+    TMap<FString, UDialogueSession*> SessionArchive;
+
+    UPROPERTY()
+    FDialogueLine EndLine;
+
 public:
 
     // Begin USubsystem
@@ -38,16 +47,5 @@ public:
     bool GetCheckMapValue(FName ConfigKey) { return LoadConfig.CheckMap[ConfigKey]; };
     UFUNCTION(BlueprintCallable, Exec)
     bool SetCheckMapValue(FName ConfigKey, bool NewValue);
-
-private:
-
-    UPROPERTY()
-    FDialogueConfig LoadConfig;
-
-    UPROPERTY()
-    TMap<FString, UDialogueSession*> SessionArchive;
-
-    UPROPERTY()
-    FDialogueLine EndLine;
 
 };
