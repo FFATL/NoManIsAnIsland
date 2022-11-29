@@ -43,7 +43,7 @@ struct FDialogueDisplayData
 	FLinearColor Color;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	UTexture2D* Texture;
+	UTexture2D* Texture = nullptr;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	bool bSpriteInstantShown;

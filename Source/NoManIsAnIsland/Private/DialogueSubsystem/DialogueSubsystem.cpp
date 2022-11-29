@@ -8,6 +8,7 @@ void UDialogueSubsystem::Initialize(FSubsystemCollectionBase& Collection)
 	Super::Initialize(Collection);
 	EndLine = FDialogueLine();
 	InitializeDialogueConfig();
+
 }
 
 void UDialogueSubsystem::Deinitialize()
@@ -17,6 +18,7 @@ void UDialogueSubsystem::Deinitialize()
 
 void UDialogueSubsystem::InitializeDialogueConfig()
 {
+	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::White, TEXT("UDialogueSubsystem::InitializeDialogueConfig()"));
 	FString JsonPath = FPaths::ProjectDir() + FString(TEXT("Content/Dialogue/Data/DialogueConfig.json"));
 	JsonPath = FPaths::ConvertRelativePathToFull(JsonPath);
 
