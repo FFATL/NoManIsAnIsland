@@ -7,7 +7,8 @@
 		"ch4_unlocked": false,
 		"ed_a_unlocked": false,
 		"ed_b_unlocked": false,
-		"ed_c_unlocked": false
+		"ed_c_unlocked": false,
+		"minigame_unlocked": false
 	},
 	"MetaVersionMap":
 	{
