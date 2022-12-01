@@ -11,5 +11,5 @@ This is my first game project published in itch.io. I like this theme because it
 <ul>
   <li>The drawings are drawn by me.</li>
   <li>The forest/trail photo is a stock photo downloaded from the internet.</li>
-  <li>Music downloaded from [http://dig.ccmixter.org/](http://dig.ccmixter.org/) and [https://www.unminus.com/](https://www.unminus.com/).</li>
+  <li>Music downloaded from http://dig.ccmixter.org/ and https://www.unminus.com/.</li>
 </ul>
